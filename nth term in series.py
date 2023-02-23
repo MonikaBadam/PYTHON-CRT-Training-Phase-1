@@ -1,0 +1,2 @@
+#nth term in series
+

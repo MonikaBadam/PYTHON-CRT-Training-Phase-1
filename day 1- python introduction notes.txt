@@ -1,0 +1,55 @@
+
+PYTHON:
+
+three types of programming:-
+
+1.procedural
+   cobol-SAP
+2.structural 
+   c,pascal
+3.object oriented programming
+   c++
+
+USER DEFINED VARIABLE:
+
+num= predefiend func i should not be there 
+def=
+
+abc = input(' ')
+abc = input(" ")
+abc = input('''  ''')
+abc = input(""" """)
+
+print("output",v)
+
+comment: #
+
+a=10 -4-bits/nibble
+      8-bits/bytes
+
+Shift Operators:-
+
+1.right shift:[>>]
+2.left shift:[<<]
+
+predefined functions:
+
+and not break class exec finally
+for from or pass print continue
+def del import in if rasie
+global try while return else is lambda
+with yield 
+
+QUESTION:
+write a program to calculate for area of triangle using heron's formula 
+write a program to calculate circumference of a circle 
+write a program to calculate the largest number of 2 
+
+
+
+
+
+
+
+
+

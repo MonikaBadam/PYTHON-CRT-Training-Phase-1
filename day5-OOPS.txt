@@ -1,0 +1,43 @@
+*object oriented programming[OOPS]
+
+*syntax of class
+
+class student :
+    name = "student 1"
+    age = 18
+    s_class = "cse-a"
+    year =3
+
+*syntax of object 
+
+ob1 = student()
+
+class is a collection of entities of a system.
+
+acessing class from a object
+
+print(ob1.name)
+print(ob1.age)
+print(ob1.s_class)
+
+# create a method of class car 
+
+class car:
+    name="bmw"
+    color="black"
+
+    
+def print_details(self):
+    print(f"name: {self.name} and roll: {self.color}")
+
+
+ob1= car()
+ob1.print_details()
+
+
+#constructor syntax
+def __init__(self):
+        
+
+
+

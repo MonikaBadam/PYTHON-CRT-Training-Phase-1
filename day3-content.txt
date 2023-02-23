@@ -1,0 +1,1 @@
+write a program that accepts a string form a user and redisplace the same string after removing vowels from it 
