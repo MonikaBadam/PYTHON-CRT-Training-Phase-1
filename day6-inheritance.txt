@@ -1,0 +1,19 @@
+
+inheritance:-
+
+accquring the properties of parent classes.
+
+inheritance are 5 types:
+
+single level:-
+
+1-parent 1-child= can have its own properties.
+
+multi level:-
+
+multi parents, multi childrens also.
+
+
+multiple:-
+hirearchy
+hibrid
